@@ -3,7 +3,7 @@ Auto play for starlight celebration 2018.
 
 ## Usage
 
-* launch `main.exe` **by admin privilege**
+* launch `auto-starlight.exe` **by admin privilege**
 * launch FFXIV
 * accept the quest
 * talk to the NPC(Harder Version)
