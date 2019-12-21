@@ -17,7 +17,7 @@ Auto play for starlight celebration 2018.
 
 The auto-play is based on keyboard record of my best(perhaps) play, I have tried my best to make sure this record could fit different timing conditions.
 
-Although, you can provide me a **better** record! Please use `listener` in release and publish it in issues. I'll update in time.
+Still, you can provide me a **better** record! Please use `listener` in release and publish it in issues. I'll update in time.
 
 You just need to launch `listener.exe` **(by admin privilege too)**, switch back to game and play the musical. Once finished, press `ESC` to let listener export a log.
 
