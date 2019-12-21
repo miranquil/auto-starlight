@@ -3,6 +3,7 @@ Auto play for starlight celebration 2018.
 
 ## Usage
 
+* Make sure you are under Keyboard&Mouse control mode.
 * launch `auto-starlight.exe` **by admin privilege**
 * launch FFXIV
 * accept the quest
