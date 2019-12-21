@@ -8,8 +8,9 @@ Auto play for starlight celebration 2018.
 * accept the quest
 * talk to the NPC(Harder Version)
 * enter the scene
-* when the **first** highlight mark appears, **CATCH THE RIGHT TIME AND PRESS `Win+F9`**.
+* when the **first** highlight mark appears, **CATCH THE RIGHT TIME AND PRESS `Win+F9` ONLY ONCE**.
 * Away-from-keyboad
+* If you want to play a new round, just get the quest and press hot key again.
 
 ##  Remarks
 

@@ -85,8 +85,8 @@ def main():
             if user32.GetMessageA(ctypes.byref(msg), None, 0, 0) != 0:
                 if msg.message == win32con.WM_HOTKEY:
                     if msg.wParam == 98:
+                        print('\a')
                         sing(time_list)
-                        exit(0)
 
                 user32.TranslateMessage(ctypes.byref(msg))
                 user32.DispatchMessageA(ctypes.byref(msg))
