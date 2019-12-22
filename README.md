@@ -1,5 +1,5 @@
 # auto-starlight
-Auto play for starlight celebration 2018.
+Auto play for starlight celebration 2018(2019).
 
 ## Usage
 
